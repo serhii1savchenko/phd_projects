@@ -1,0 +1,27 @@
+1. Install Anaconda 
+	https://www.anaconda.com/products/distribution
+
+2. Open Anaconda Prompt (as admin) 
+
+3. Install keras (https://www.educative.io/edpresso/how-to-install-keras-in-anaconda) 
+	conda create --name new_env
+	activate new_env
+	conda install -c anaconda keras
+	conda install spyder
+	conda install jupyter
+	conda install matplotlib
+	conda install pandas
+	conda install scikit-learn
+	
+	pip install yfinance --upgrade --no-cache-dir 
+	pip install PyPortfolioOpt
+	pip install "git+https://github.com/cvxgrp/cvxpy.git#egg=cvxpy[glpk]"
+	
+	pip install tensorflow
+	
+	pip install scikeras
+
+4. Now open Anaconda Navigator - change environment to new_env and launch Jupyter Notebook. 
+
+5. (Optional) create shortcat to lunch Jupyter Notebook from this environment. 
+
