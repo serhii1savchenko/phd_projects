@@ -1,0 +1,10 @@
+start - Start
+help - View instructions
+income - Set annual income
+inv_start - Set your age when you will start making savings (e.g. 35)
+inv_end - Set your age when you will end making savings (e.g. 55)
+inv_use - Until what age do you plan to spend your savings (e.g. 75)
+rate - Set nominal annual interest rate on savings (e.g. 10)
+deviation - Set the maximum acceptable reduction of your average return (e.g. 33)
+generate - Generate your personal constant consumption financial plan
+clear - Clear all data
